@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "react": "16.8.3",
-    "react-native": "0.59.3",
+    "react-native": "0.62.3",
     "react-viro": "2.15.0"
   },
   "devDependencies": {
